@@ -1,14 +1,14 @@
-# M4U-Term-And-Use
+# Term-And-Use
 
 Terms & Conditions
 
-By downloading, installing, and/or using M4U App, you acknowledge that you have read, understood, and agree to the following Terms of Use:
+By downloading, installing, and/or using our app, you acknowledge that you have read, understood, and agree to the following Terms of Use:
 
 1. To use some of the app's features, you don't need to create an account. You must yourself remember your itune account information. If you do not remember your account information or the information is wrong, you will not receive support when problems occur.
 
-2. M4U2 app includes third-party dictionary websites. We are not responsible for their accuracy or reliability. Inappropriate or unavailable dictionary websites may be removed from the app.
+2. App includes third-party dictionary websites. We are not responsible for their accuracy or reliability. Inappropriate or unavailable dictionary websites may be removed from the app.
 
-3. M4U does not link to websites nor own their content. The contents are compiled for educational purposes only, which aims to help users learn Math.
+3. App does not link to websites nor own their content. The contents are compiled for educational purposes only, which aims to help users learn/play.
 
 4. About VIP account
 
@@ -20,7 +20,7 @@ By downloading, installing, and/or using M4U App, you acknowledge that you have 
 
 - Sharing or selling an account to other people is not allowed, the account will be deleted without prior notice in case of violation.
 
-- VIP account includes no ad displayed by M4U.
+- VIP account includes no ad displayed by app.
 
 - Refund is unavailable after purchasing under any circumstances, as the App can be downloaded, installed and used for free before you decide to purchase. Therefore, you need to consider carefully before purchasing.
 
